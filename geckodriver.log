@@ -1,0 +1,77 @@
+1651945755509	geckodriver	INFO	Listening on 127.0.0.1:23649
+1651945758566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "23650" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mahmoud\\AppData\\Local\\Temp\\rust_mozprofilewrrLXc"
+1651945758921	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mahmoud\\AppData\\Local\\Temp\\rust_mozprofilewrrLXc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:23650/devtools/browser/a0564f7a-c6fb-4df1-b89b-ff0071b6ae1b
+1651945760481	Marionette	INFO	Listening on port 23682
+Read port: 23682
+1651945760537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://drfdisvc.walmart.com/eIQSukYnPs3gY9of?b883859429367b40=beuzzNf9oy41RqBzZigXRsrB0rPOgAJrb8Syp4PVNqS6L9sZXvMToRnJ8zrSCB4xM4YSUNkO6z49cn88JLj5wpHUJ_AmyRc1dRwRz4WEIgohAfZB4lVw9SrtPztMkOCB7HqlHOtQpmpShCUewYzw8CvJIxYTyiXxMYedEaVY6uqmMDH0IWMGyZNEz_w-ySjy3jsH47Hv05rzewUK&jb=36392e2e6a7367753d55616e646775732662796f3f5f696666657573273a30313a2e6a71627d354e69726d666f7a2e6a736a3f46697a6f666d70253a323b3230, line 81: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651946303402	geckodriver	INFO	Listening on 127.0.0.1:1280
+1651946306452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1281" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mahmoud\\AppData\\Local\\Temp\\rust_mozprofiled9Mxpb"
+1651946306896	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mahmoud\\AppData\\Local\\Temp\\rust_mozprofiled9Mxpb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1281/devtools/browser/72dd53e4-ae77-4476-86a8-91546c8032ef
+1651946308776	Marionette	INFO	Listening on port 1316
+Read port: 1316
+1651946308862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://drfdisvc.walmart.com/BCcRXp_S_bRWke5S?389669920d886e3c=bs7n54sQ3BoWpCA7WKNz_wl9zVQm7z0JDBoa--CWyNrIlC70Sa8dg4SGX9z6HkBDaTevWMlpThCC18bH4oWnhtw_zCSZd7Nfkuy9xeXHEC72O3iVx--9qMKVLk0QHt1AGUaJLArEZwgHtMc-LpvXqnMizKOFJXgaAR5hjNLa0O8DE5_3ouJD0e9BfddtDVX-LsVZz0Y41KaOaTra&jb=3c3924246a71657d3d55696c6e67777b24687b6f3d5f6b64666d77712d30303932266873687d3f4469706f6e6f7a2668796a3d4e6b706d666f70273832333032, line 554: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651946617253	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946617257	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946617262	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946617271	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946617275	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946617281	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946617285	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946617290	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946617295	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946617300	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.walmart.com/px/PXu6b0qd2S/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651946669785	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946669791	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946669795	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946669799	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946669805	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946669808	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946669812	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946669816	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946669820	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946669823	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946698068	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946698075	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946698080	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946698085	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946698090	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946698094	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946698098	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946698102	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946698106	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946698110	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946750900	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946750905	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946750909	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946750913	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946750917	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946750921	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946750926	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946750929	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946750932	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651946750940	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651947122429	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651947122434	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651947122438	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651947122442	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651947122447	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651947122452	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651947122456	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651947122460	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651947122467	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651947122470	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1651949666508	geckodriver	INFO	Listening on 127.0.0.1:20492
+1651949669609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "20493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mahmoud\\AppData\\Local\\Temp\\rust_mozprofileK8W9JG"
+1651949670534	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mahmoud\\AppData\\Local\\Temp\\rust_mozprofileK8W9JG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:20493/devtools/browser/e5a52c04-5bd9-48ee-91b3-f29c4a14478f
+1651949672843	Marionette	INFO	Listening on port 20528
+Read port: 20528
+1651949672902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
